@@ -1,0 +1,25 @@
+lautaro scanio
+7658
+,300000
+,0
+,0
+.
+.
+pepo de santis
+pepo123
+,105000
+,5
+,0
+.
+martin perez
+tincho123
+,232455
+,10
+,0
+.
+luca
+luca123
+,2000000
+,0
+,0
+.
